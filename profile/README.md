@@ -8,7 +8,6 @@ We fulfill our mandate through three critical phases of innovation:
 
 *   **Use-Inspired Research**: Conducting rigorous inquiry driven by specific, real-world challenges.
 *   **Translation to Practice**: Engineering robust, deployable tools that turn theoretical models into operational capabilities.
-*   **Commercialization**: Building sustainable pathways to bring high-impact technologies to market.
 
 We are particularly focused on enabling scientific research and resilient communities by operationalizing digital twins coupled with AI-assisted decision support.
 
