@@ -6,8 +6,7 @@ operations.
 
 We prepare data for high-resolution coastal simulation: we acquire, reconcile and quality-check
 boundary forcing and bathymetry from public sources, and build open-source tools to serve and
-visualize the ocean and atmosphere. With research collaborators, we are building toward sub-100 meter
-simulation of inshore waters and real-time 3D views of the results.
+visualize the ocean and atmosphere.
 
 ## Data for coastal models
 
