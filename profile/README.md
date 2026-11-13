@@ -4,7 +4,7 @@ Long Horizon Observatory supports scientists with use-inspired research, bringin
 infrastructure and agentic-AI tools into scientific contexts to accelerate research and streamline
 operations.
 
-We prepare data for high-resolution coastal simulation: we acquire, reconcile and quality-check
+We prepare data for high-resolution coastal modeling: we acquire, reconcile and quality-check
 boundary forcing and bathymetry from public sources, and build open-source tools to serve and
 visualize the ocean and atmosphere.
 
